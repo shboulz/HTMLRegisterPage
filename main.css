@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: skyblue;
+    text-align: right;
+}
+form{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    border: solid 2px;
+    margin: 0 auto;
+    background: white;
+}
+
+.header{
+    text-align: left;
+}
+
+.inputs{
+    padding: 5px 5px 5px 5px;
+}
+
+
+.logos{
+    text-align: center;
+    float: left;
+    padding: 100px 10px 10px 10px;
+}
+
+#Logo1{
+    width: 40px;
+    height: auto;
+}
+
+#Logo2{
+    width: 40px;
+    height: auto;
+}
+
+#Logo3{
+    width: 40px;
+    height: auto;
+}
+
+#Logo4{
+    width: 40px;
+    height: auto;
+}
+
+#Logo5{
+    width: 40px;
+    height: auto;
+}
